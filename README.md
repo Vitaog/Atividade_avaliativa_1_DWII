@@ -42,3 +42,5 @@ Ao término, a aplicação deverá gerar como saída: <br>
 3. O exercício consiste em criar uma página de usuário com informações básicas como nome, sobrenome, idade e país. Além disso, o usuário deve ser capaz de editar suas informações usando um formulário.
 
 ## Para rodar o projeto execute o comando  "cd .\ListaEx(número do exercio)" e  "node .\app.js" no terminal.
+
+OBS: Antes de executar o exercicio 3, não esqueca de criar o banco de dados com o script que está no diretório "bd".
